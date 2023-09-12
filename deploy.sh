@@ -3,3 +3,4 @@ hello this file is updateded
 
 hello guys this file is updeted in the development barch
 
+Hello this file is updateded in directly remote repositary...
